@@ -1,0 +1,23 @@
+body{-webkit-transition: all 1s ease-out;
+    -moz-transition: all 1s ease-out;
+    -o-transition: all 1s ease-out;
+    -ms-transition: all 1s ease-out;
+    transition: all 1s ease-out;
+    width:50%; height:50%;
+	background-size:100%}
+	body:hover
+	{
+	
+		opacity:100
+	
+	}
+	.center {
+    position: absolute;
+    left: 200;
+    top: 8%;
+    width: 70%;
+    text-align: center;
+    font-size: 18px;
+	
+}
+
